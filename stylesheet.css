@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(194,190,180);
+}
+
+.tLeft {
+	width: 220px;
+	height: 220px;
+	border: 3px solid black;
+}
+
+img.absolute {
+	position: absolute;
+	right:88%;
+	bottom:80%;
+}
+
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+table.center {
+	width:70%;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+th, td {
+	padding: 10px;
+}
+
+tr:hover {background-color: #f5f5f5;}
